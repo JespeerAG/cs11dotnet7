@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using TimesTable;
+using TimesTableNamespace;
 
-TimesTable.Print(7);
+TimesTableClass.PrintOut(7);

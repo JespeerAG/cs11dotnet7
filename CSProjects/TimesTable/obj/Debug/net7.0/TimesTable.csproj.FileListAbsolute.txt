@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\bin\Debug\net7.0\TimesTable.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\bin\Debug\net7.0\TimesTable.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\bin\Debug\net7.0\TimesTable.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\bin\Debug\net7.0\TimesTable.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\bin\Debug\net7.0\TimesTable.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\refint\TimesTable.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\TimesTable.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\TimesTable\obj\Debug\net7.0\ref\TimesTable.dll
