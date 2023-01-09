@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Debugging\obj\Debug\net7.0\ref\Debugging.dll
