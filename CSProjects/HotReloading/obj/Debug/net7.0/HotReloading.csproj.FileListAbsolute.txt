@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\bin\Debug\net7.0\HotReloading.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\bin\Debug\net7.0\HotReloading.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\bin\Debug\net7.0\HotReloading.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\bin\Debug\net7.0\HotReloading.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\bin\Debug\net7.0\HotReloading.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\refint\HotReloading.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\HotReloading.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\HotReloading\obj\Debug\net7.0\ref\HotReloading.dll
