@@ -1,10 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Debugging;
 
-double a = 4.5;
-double b = 2.5;
-double answer = MathFunctions.Add(a, b);
+Console.WriteLine("Test!");
+int quantityIndex = 0;
+int valueIndex = 1;
 
-Console.WriteLine($"{a} + {b} = {answer}");
-Console.WriteLine("Press ENTER to end the app.");
-Console.ReadLine();
+string[] record = new string[] { "10", "20" };
+
+var a = (Decimal.Parse(record[quantityIndex]) * (1)).ToString("0.00"); // Units
+var b = (Decimal.Parse(record[valueIndex]) * (-1)).ToString("0.00");
+
+Console.WriteLine($"a is {a}, b is {b}");
