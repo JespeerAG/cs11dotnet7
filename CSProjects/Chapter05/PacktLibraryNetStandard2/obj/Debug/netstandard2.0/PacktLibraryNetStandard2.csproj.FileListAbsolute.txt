@@ -1,0 +1,10 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb

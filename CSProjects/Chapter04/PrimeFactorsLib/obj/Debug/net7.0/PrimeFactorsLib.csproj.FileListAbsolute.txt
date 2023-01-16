@@ -1,0 +1,12 @@
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.deps.json
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.dll
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.pdb
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfo.cs
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.dll
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\refint\PrimeFactorsLib.dll
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.pdb
+c:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PrimeFactorsLib\obj\Debug\net7.0\ref\PrimeFactorsLib.dll
