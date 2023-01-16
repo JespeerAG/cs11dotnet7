@@ -1,0 +1,12 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\bin\Debug\net7.0\PillarsLib.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\bin\Debug\net7.0\PillarsLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\bin\Debug\net7.0\PillarsLib.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\refint\PillarsLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\PillarsLib.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\PillarsLib\obj\Debug\net7.0\ref\PillarsLib.dll

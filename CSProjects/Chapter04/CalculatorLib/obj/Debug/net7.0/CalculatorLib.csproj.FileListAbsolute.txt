@@ -1,0 +1,12 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\refint\CalculatorLib.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter04\CalculatorLib\obj\Debug\net7.0\ref\CalculatorLib.dll
