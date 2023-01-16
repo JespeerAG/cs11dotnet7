@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/TimesTable/bin/Debug/net7.0/TimesTable.dll",
+            "program": "${workspaceFolder}/Instrumenting/bin/Debug/net7.0/Instrumenting.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/TimesTable",
+            "cwd": "${workspaceFolder}/Instrumenting",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
