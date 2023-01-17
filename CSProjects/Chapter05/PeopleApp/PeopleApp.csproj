@@ -13,5 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PacktLibraryNetStandard2\PacktLibraryNetStandard2.csproj" />
+    <ProjectReference Include="..\PacktLibraryModern\PacktLibraryModern.csproj" />
   </ItemGroup>
 </Project>

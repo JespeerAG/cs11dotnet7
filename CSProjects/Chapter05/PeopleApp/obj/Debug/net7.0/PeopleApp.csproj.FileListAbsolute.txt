@@ -16,3 +16,5 @@ C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\obj
 C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
 C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
 C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryModern.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryModern.pdb
