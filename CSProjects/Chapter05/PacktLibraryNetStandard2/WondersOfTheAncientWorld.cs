@@ -1,4 +1,4 @@
-namespace PacktLibraryNetStandard2
+namespace Packt.Shared
 {
     [Flags]
     public enum WondersOfTheAncientWorld : byte
