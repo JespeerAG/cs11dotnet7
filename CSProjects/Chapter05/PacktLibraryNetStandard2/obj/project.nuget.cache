@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fLhVuD2VuBr1brk7zpBFdyl08TdI/5wwXfMCnx9Rh823E7ZrW5jwuU9DQFDZewqXbQMgR4AwtNI1jIT9k0ddgw==",
+  "dgSpecHash": "rQW+uetxw4IHERkiiqp6qSgXvGhtwQ9gP/8KqRISYA0sjV7TMTgLr9Q2D915WtMAkd5rNH/4fnUqYAoRwWLdjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tobia.Beccari\\CSLearning\\cs11dotnet7\\CSProjects\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

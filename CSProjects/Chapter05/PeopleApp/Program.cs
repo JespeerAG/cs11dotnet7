@@ -119,7 +119,7 @@ catch (Exception ex)
     WriteLine($"{ex.GetType()} says: {ex.Message} number was {number}.");
 }
 */
-
+/*
 Passenger[] passengers = {
     new FirstClassPassenger { AirMiles = 1_419, Name = "Suman" },
     new FirstClassPassenger { AirMiles = 16_562, Name = "Lucy" },
@@ -149,11 +149,11 @@ foreach (Passenger passenger in passengers)
             > 15000 => 1750M,
             _ => 2000M
         },
-        /* Alternative:
-        FirstClassPassenger { AirMiles: > 35000} => 1500M,
-        FirstClassPassenger { AirMiles: > 15000} => 1750M,
-        FirstClassPassenger => 2000M,
-        */
+        //  Alternative:
+        // FirstClassPassenger { AirMiles: > 35000} => 1500M,
+        // FirstClassPassenger { AirMiles: > 15000} => 1750M,
+        // FirstClassPassenger => 2000M,
+        
         BusinessClassPassenger => 1000M,
         CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
         CoachClassPassenger => 650M,
@@ -161,3 +161,35 @@ foreach (Passenger passenger in passengers)
     };
     WriteLine($"Flight costs {flightCost:C} for {passenger}. Done with C# 9, we get {flightCostCS9:C}.");
 }
+*/
+/*
+ImmutablePerson jeff = new()
+{
+    FirstName = "Jeff",
+    LastName = "Winger"
+};
+
+ImmutableVehicle car = new()
+{
+    Brand = "Mazda MX-5 RF",
+    Color = "Soul Red Crystal Metallic",
+    Wheels = 4
+};
+
+ImmutableVehicle repaintedCar = car
+with
+{ Color = "Polymetal Grey Metallic" };
+
+WriteLine($"Original car color was {car.Color}. It now is {repaintedCar.Color}. Car has {car.Wheels}.");
+
+car = car with { Wheels = 5 };
+
+WriteLine($"Car now has {car.Wheels}.");
+*/
+
+ImmutableAnimalQuick oscar = new("Oscar", "Labrador");
+
+var (who, what) = oscar;
+oscar.Deconstruct(out string oscarName, out string oscarSpecies);
+
+WriteLine($"These are two ways to deconstruct. One is implicit, and gives name: {who}, the other uses 'out' and gives {oscarName}.");

@@ -62,7 +62,7 @@ namespace Packt.Shared
             }
         }
 
-        public Person this[string name]
+        public Person? this[string name]
         {
             get
             {
@@ -70,7 +70,7 @@ namespace Packt.Shared
             }
             set
             {
-                Person found = Children.Find(p => p.Name == name);
+                Person? found = Children.Find(p => p.Name == name);
                 if (found is not null) found = value;
             }
         }
