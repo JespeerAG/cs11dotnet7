@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\refint\WarningsAsErrors.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\WarningsAsErrors\obj\Debug\net7.0\ref\WarningsAsErrors.dll
