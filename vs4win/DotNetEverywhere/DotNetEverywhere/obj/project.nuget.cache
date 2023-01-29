@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9w+FYDDrz5vqGGIrxO9PMEiRcBb4oHEuexMqylOSkH2scFNIID33P43Z7aeWO3g4RBEKrK/yTH6fBc6QXi/+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobia.Beccari\\CSLearning\\cs11dotnet7\\vs4win\\DotNetEverywhere\\DotNetEverywhere\\DotNetEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\7.0.0\\microsoft.aspnetcore.app.runtime.linux-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.0\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\7.0.0\\microsoft.aspnetcore.app.runtime.osx-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\7.0.0\\microsoft.aspnetcore.app.runtime.osx-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.0\\microsoft.aspnetcore.app.runtime.win-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\7.0.0\\microsoft.netcore.app.host.linux-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.0\\microsoft.netcore.app.host.linux-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\7.0.0\\microsoft.netcore.app.host.osx-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\7.0.0\\microsoft.netcore.app.host.osx-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\7.0.0\\microsoft.netcore.app.runtime.linux-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.0\\microsoft.netcore.app.runtime.linux-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\7.0.0\\microsoft.netcore.app.runtime.osx-arm64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\7.0.0\\microsoft.netcore.app.runtime.osx-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.0\\microsoft.netcore.app.runtime.win-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tobia.Beccari\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
