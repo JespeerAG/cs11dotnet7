@@ -1,0 +1,17 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\refint\CodeAnalysing.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\ref\CodeAnalysing.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\bin\Debug\net7.0\CodeAnalysing.xml
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\CodeAnalysing\obj\Debug\net7.0\CodeAnalysing.xml

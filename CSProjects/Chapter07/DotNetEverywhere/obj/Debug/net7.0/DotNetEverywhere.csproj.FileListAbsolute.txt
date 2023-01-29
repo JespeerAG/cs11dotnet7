@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Debug\net7.0\DotNetEverywhere.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\refint\DotNetEverywhere.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\DotNetEverywhere.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\obj\Debug\net7.0\ref\DotNetEverywhere.dll

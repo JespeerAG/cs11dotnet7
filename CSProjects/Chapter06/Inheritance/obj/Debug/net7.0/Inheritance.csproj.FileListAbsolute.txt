@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter06\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll

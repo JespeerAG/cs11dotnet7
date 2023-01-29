@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\refint\WorkingWithNumbers.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\ref\WorkingWithNumbers.dll

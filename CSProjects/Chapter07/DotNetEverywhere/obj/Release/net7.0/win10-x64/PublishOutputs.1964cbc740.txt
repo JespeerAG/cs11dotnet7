@@ -1,0 +1,2 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Release\net7.0\win10-x64\publish\DotNetEverywhere.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter07\DotNetEverywhere\bin\Release\net7.0\win10-x64\publish\DotNetEverywhere.exe

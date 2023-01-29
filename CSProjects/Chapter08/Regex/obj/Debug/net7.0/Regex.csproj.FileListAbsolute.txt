@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\bin\Debug\net7.0\Regex.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\bin\Debug\net7.0\Regex.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\bin\Debug\net7.0\Regex.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\bin\Debug\net7.0\Regex.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\bin\Debug\net7.0\Regex.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\refint\Regex.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\Regex.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter08\Regex\obj\Debug\net7.0\ref\Regex.dll
