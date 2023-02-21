@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Northwind.Razor.Countries.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\refint\LinqWithObjects.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter11\LinqWithObjects\obj\Debug\net7.0\ref\LinqWithObjects.dll

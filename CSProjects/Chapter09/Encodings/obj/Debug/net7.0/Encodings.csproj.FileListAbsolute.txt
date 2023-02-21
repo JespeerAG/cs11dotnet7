@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\bin\Debug\net7.0\Encodings.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\bin\Debug\net7.0\Encodings.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\bin\Debug\net7.0\Encodings.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\bin\Debug\net7.0\Encodings.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\bin\Debug\net7.0\Encodings.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\refint\Encodings.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\Encodings.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\Encodings\obj\Debug\net7.0\ref\Encodings.dll

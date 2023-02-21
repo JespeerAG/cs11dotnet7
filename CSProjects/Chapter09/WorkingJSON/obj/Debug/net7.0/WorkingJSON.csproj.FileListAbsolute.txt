@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\bin\Debug\net7.0\WorkingJSON.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\bin\Debug\net7.0\WorkingJSON.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\bin\Debug\net7.0\WorkingJSON.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\bin\Debug\net7.0\WorkingJSON.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\bin\Debug\net7.0\WorkingJSON.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\refint\WorkingJSON.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\WorkingJSON.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\WorkingJSON\obj\Debug\net7.0\ref\WorkingJSON.dll

@@ -1,0 +1,5 @@
+Data Source=WS124\SQLEXPRESS;
+Initial Catalog=Northwind;
+Integrated Security=true;
+MultipleActiveResultSets=true;
+TrustServerCertificate=true

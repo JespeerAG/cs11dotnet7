@@ -1,0 +1,15 @@
+@using Packt.Shared
+@model Packt.Shared.SuppliersByCountry
+
+<div class="card border-dark mb-3" style="max-width: 18rem;">
+    <div class="card-header">@Model?.Country</div>
+    <div class="card-body text dark">
+        <h5 class="card-title">Suppliers:</h5>
+        @foreach(Supplier supplier in Model.Suppliers)
+        {
+            <p class="card-text">
+                <a href="/hello">@supplier.CompanyName</a>
+            </p>
+        }
+    </div>
+</div>

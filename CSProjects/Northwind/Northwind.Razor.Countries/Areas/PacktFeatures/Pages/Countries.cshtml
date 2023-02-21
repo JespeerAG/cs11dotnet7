@@ -1,0 +1,17 @@
+﻿@page
+@using Packt.Shared
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model PacktFeatures.Pages.CountriesPageModel
+
+<div class="row">
+    <h1 class="display-2">Countries</h1>
+</div>
+<div class="row">
+    @foreach(SuppliersByCountry country in Model.Countries)
+    {
+        <div class="col-sm-3">
+            <partial name="_Country" model="country"/>
+        </div>
+    }
+</div>
+

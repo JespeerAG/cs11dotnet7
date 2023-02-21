@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\bin\Debug\net7.0\Northwind.Common.DataContext.SQLServer.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\bin\Debug\net7.0\Northwind.Common.DataContext.SQLServer.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\bin\Debug\net7.0\Northwind.Common.DataContext.SQLServer.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\refint\Northwind.Common.DataContext.SQLServer.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\ref\Northwind.Common.DataContext.SQLServer.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SQLServer.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SQLServer.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Northwind\Northwind.Common.DataContext.SQLServer\obj\Debug\net7.0\Northwind.Common.DataContext.SQLServer.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.csproj.AssemblyReference.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.AssemblyInfoInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.AssemblyInfo.cs
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.csproj.CoreCompileInputs.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\bin\Debug\net7.0\TarArchives.exe
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\bin\Debug\net7.0\TarArchives.deps.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\bin\Debug\net7.0\TarArchives.runtimeconfig.json
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\bin\Debug\net7.0\TarArchives.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\bin\Debug\net7.0\TarArchives.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\refint\TarArchives.dll
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.pdb
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\TarArchives.genruntimeconfig.cache
+C:\Users\Tobia.Beccari\CSLearning\cs11dotnet7\CSProjects\Chapter09\TarArchives\obj\Debug\net7.0\ref\TarArchives.dll
