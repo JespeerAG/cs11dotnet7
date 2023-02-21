@@ -6,6 +6,10 @@
 <div>
   Enter values for your thing in the following form:
 </div>
+@* 2 is a route parameter, ?id=3 is a query string parameter 
+Red is a form parameter.
+*@
+@* With parameters of the same name, the priority goes form parameter > route parameter > query string parameters *@
 <form method="POST" action="/home/modelbinding?id=3">
   <input name="id" value="1" />
   <input name="color" value="Red" />
